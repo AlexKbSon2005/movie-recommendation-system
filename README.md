@@ -15,7 +15,5 @@ This Movie Recommender System is a simple application built using Python and Str
 
 ## How to Use
 
-1. Clone the repository:
+you can use it by downloading my given files just do some changes according to you
 
-   ```bash
-   git clone https://github.com/AlexKbSon2005movie-recommendation-system.git
