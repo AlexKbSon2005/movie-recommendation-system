@@ -18,4 +18,4 @@ This Movie Recommender System is a simple application built using Python and Str
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AlexKbSon2005/movie-recommender.git
+   git clone https://github.com/AlexKbSon2005movie-recommendation-system.git
